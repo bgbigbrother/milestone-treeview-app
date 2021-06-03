@@ -2,7 +2,7 @@ function App () {
   let modules = [
      'js/components/milestone-login-form/main.js',
      'js/components/milestone-treeview/main.js',
-	   'js/components/milestone-app/main.js'
+     'js/components/milestone-app/main.js'
    ];
 
    modules.forEach((module) => {
