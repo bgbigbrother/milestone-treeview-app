@@ -10,9 +10,9 @@ export default class LoginTemplate {
         <fieldset>
           <legend>Login</legend>
             <label for="username"></label>
-            <input type="text" name="username" id="username" value="sftst" />
+            <input type="text" name="username" id="username" value="" />
             <label for="password">Password</label>
-            <input type="password" name="passowrd" value="BGTest1!" id="password" />
+            <input type="password" name="passowrd" value="" id="password" />
             <button type="button" name="button" id="loginButton">Login</button>
         </fieldset>
       </div>`;
